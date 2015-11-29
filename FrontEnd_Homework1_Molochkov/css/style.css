@@ -1,0 +1,22 @@
+   @import "imported.css";
+   
+   p,
+   div,
+   a {
+       padding: 3pt 0pt; /* отступы */ 
+       font-family: Verdana, Arial, Helvetica, sans-serif; 
+       font-size: 12pt; /* Размер шрифта в пунктах */
+   }
+   
+   ul {
+       font-family: Verdana, Arial, Helvetica, sans-serif; 
+       font-size: 12pt; /* Размер шрифта в пунктах */ 
+   }
+   
+   li {
+       padding: 3pt 0pt; /* отступы */
+   }
+   
+   .fig {
+       text-align: center; /* Выравнивание по центру */ 
+   }
